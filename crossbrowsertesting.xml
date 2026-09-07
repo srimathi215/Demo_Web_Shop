@@ -6,6 +6,17 @@
   <parameter name="browser" value="chrome"></parameter>
     <classes>
       <class name="testCases.TC_001AcountRegisterTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+      <class name="testCases.TC_003LoginDDT"/> 
+      <class name="testCases.TC_004SearchingProductTest"/>
+      <class name="testCases.TC_005ProductpageTest"/>
+      <class name="testCases.TC_006ShoppingCartTest"/>
+      <class name="testCases.TC_007CheckoutPageTest"/>
+      <class name="testCases.TC_008LogoutTest"/>
+      <class name="testCases.TC_009ForgetPassowordTest"/>
+      <class name="testCases.TC_010WishlistPage"/>
+      <!-- class name="testCases.TC_011ChangepasswordTest"/-->
+      <class name="testCases.TC_012OrderHistory"/>
     </classes>
   </test> <!-- Test -->
   <test name="firefoxtest">
@@ -13,6 +24,17 @@
   <parameter name="browser" value="firefox"></parameter>
     <classes>
       <class name="testCases.TC_001AcountRegisterTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+      <class name="testCases.TC_003LoginDDT"/> 
+      <class name="testCases.TC_004SearchingProductTest"/>
+      <class name="testCases.TC_005ProductpageTest"/>
+      <class name="testCases.TC_006ShoppingCartTest"/>
+      <class name="testCases.TC_007CheckoutPageTest"/>
+      <class name="testCases.TC_008LogoutTest"/>
+      <class name="testCases.TC_009ForgetPassowordTest"/>
+      <class name="testCases.TC_010WishlistPage"/>
+      <!-- class name="testCases.TC_011ChangepasswordTest"/-->
+      <class name="testCases.TC_012OrderHistory"/>
     </classes>
   </test> <!-- Test -->
   <test name="edgetest">
@@ -20,6 +42,17 @@
   <parameter name="browser" value="edge"></parameter>
     <classes>
       <class name="testCases.TC_001AcountRegisterTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+      <class name="testCases.TC_003LoginDDT"/> 
+      <class name="testCases.TC_004SearchingProductTest"/>
+      <class name="testCases.TC_005ProductpageTest"/>
+      <class name="testCases.TC_006ShoppingCartTest"/>
+      <class name="testCases.TC_007CheckoutPageTest"/>
+      <class name="testCases.TC_008LogoutTest"/>
+      <class name="testCases.TC_009ForgetPassowordTest"/>
+      <class name="testCases.TC_010WishlistPage"/>
+      <!-- class name="testCases.TC_011ChangepasswordTest"/-->
+      <class name="testCases.TC_012OrderHistory"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- suite -->
