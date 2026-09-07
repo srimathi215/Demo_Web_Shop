@@ -39,15 +39,12 @@ The automation framework covers the following modules:
 Demo_Web_Shop
 │
 ├── src
-│   ├── main
-│   │   └── java
-│   │       ├── pageObject
-│   │       └── utilities
-│   │
 │   └── test
 │       └── java
+│           ├── pageObject
 │           ├── testBase
-│           └── testCases
+│           ├── testCases
+│           └── utilities
 │
 ├── testData
 ├── master.xml
